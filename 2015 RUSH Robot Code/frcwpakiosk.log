@@ -81,3 +81,6 @@ Caused by: frcradiokiosk.InvalidLoginException: Bridge login failed; invalid log
 2015-03-11 18:34:02,799 INFO [AWT-EventQueue-0] f.t.FRC_Team_Kiosk [FRC_Team_Kiosk.java:565] Starting kiosk...
 2015-03-11 18:35:36,671 INFO [AWT-EventQueue-0] f.t.FRC_Team_Kiosk [FRC_Team_Kiosk.java:183] Radio configuration successful for team 27; 2.02
 2015-03-11 18:35:50,650 INFO [AWT-EventQueue-0] f.t.FRC_Team_Kiosk [FRC_Team_Kiosk.java:189] Shutting down kiosk
+2015-08-10 18:46:18,630 INFO [AWT-EventQueue-0] f.t.FRC_Team_Kiosk [FRC_Team_Kiosk.java:565] Starting kiosk...
+2015-08-10 18:47:54,961 INFO [AWT-EventQueue-0] f.t.FRC_Team_Kiosk [FRC_Team_Kiosk.java:183] Radio configuration successful for team 27; 2.00
+2015-08-10 18:47:58,069 INFO [AWT-EventQueue-0] f.t.FRC_Team_Kiosk [FRC_Team_Kiosk.java:189] Shutting down kiosk

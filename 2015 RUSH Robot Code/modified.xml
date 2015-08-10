@@ -115,7 +115,7 @@
           <cnt>2</cnt>
           <ipv4>
             <ipaddr>192.168.0.50</ipaddr>
-            <ipaddr>169.254.123.238</ipaddr>
+            <ipaddr>169.254.42.208</ipaddr>
           </ipv4>
         </ipalias>
         <devnam>br0</devnam>
@@ -135,7 +135,7 @@
             <gateway>10.0.27.4</gateway>
             <domain />
           </ipv4>
-          <uptime>28</uptime>
+          <uptime>29</uptime>
         </inet>
       </inf>
     </runtime>
